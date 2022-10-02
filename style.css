@@ -1,10 +1,13 @@
 body{
-    background-color: rgb(16, 35, 209);
+    background-color: rgb(238, 239, 252);
 }
 h1{
     text-align: center;
-    color: rgb(190, 190, 224);
+    color: rgb(33, 33, 193);
 }
 .Fisu{
-    color: chartreuse;
+    color: rgb(31, 55, 7);
+}
+.Dom{
+    color: rgb(133, 148, 38);
 }
